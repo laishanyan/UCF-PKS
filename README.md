@@ -1,11 +1,4 @@
-### Consumer Fraud Detection
-
-1 首先需要将数据下载，数据地址：https://github.com/shanyanlai/Consumer-Review-Data_v3
-
-2 新建data目录，然后将数据放在该目录下。
-
-3 新建log目录用于存放日志
-
+### UCF-PKS: Unforeseen Consumer Fraud Detection With Prior Knowledge and Semantic Features
 
 1 Firstly, the data needs to be downloaded from the following address: https://github.com/shanyanlai/Consumer-Review-Data_v3.
 
@@ -13,7 +6,7 @@
 
 3 Create a new directory: log to store logs.
 
-@article{
+## article
 
   title={UCF-PKS: Unforeseen Consumer Fraud Detection With Prior Knowledge and Semantic Features},
   
@@ -24,5 +17,3 @@
   year={2024},
   
   publisher={IEEE}
-  
-}
